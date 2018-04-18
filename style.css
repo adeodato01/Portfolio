@@ -1,0 +1,148 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    width: 1000px;
+    height: auto;
+}
+.header{
+    height: 50px;
+    width: 975px;
+    background: white;
+    margin-top: 0px;
+    padding-top: 10px;
+    padding-left: 25px;
+}
+h1{
+    display: inline-block;
+    text-align: left;
+    margin-right: 510px;
+}
+h3{
+    display: inline-block;
+
+}
+.totalBackground{
+    background: radial-gradient(rgb(111, 89, 100), rgb(26, 10, 14));
+    /* height: 900px; */
+    width: 960px;
+    padding: 20px;
+}
+.topOfBody{
+    margin-bottom: 20px;
+}
+.footer{
+    height: 100px;
+    width: 1000px;
+    background: white;
+    text-align: center;
+}
+.headShot{
+    display: inline-block;
+    border: 5px solid rgb(192, 192, 192);
+    margin-right: 20px;
+    height: 275px;
+}
+.headShot img{
+    height: 275px;
+    width: 420px;
+}
+.about{
+    display: inline-block;
+    vertical-align: top;
+    width: 500px;
+    height: 285px;
+}
+.interiorHeader{
+    height: 30px;
+    background: linear-gradient(rgb(179, 179, 182), rgb(135, 133, 147), rgb(179, 179, 182));
+    color: white;
+    padding-top: 10px;   
+}
+.interiorHeader h3{
+    margin-left:10px;
+}
+.interiorHeader h4{
+    margin-left: 10px;
+}
+
+.aboutText{
+    display: inline-block;
+    background: linear-gradient(to right, rgb(255, 254, 255), rgb(218, 203, 217));
+    height: 245px;
+}
+a{
+    color: black;
+}
+p{
+    padding: 10px;
+}
+.botomThree{
+    height: 600px;
+    /* vertical-align: top; */
+}
+.example{
+    width: 300px;
+    height: 600px;
+    background: linear-gradient(to right, rgb(255, 254, 255), rgb(218, 203, 217));
+    display: inline-block;
+    vertical-align: top;
+}
+.example img{
+    width: 300px;
+}
+.exampleMid{
+    margin-left: 23px;
+    margin-right: 23px;
+    width: 300px;
+    height: 600px;
+    background: linear-gradient(to right, rgb(255, 254, 255), rgb(218, 203, 217));
+    display: inline-block;
+    vertical-align: top;    
+}
+.exampleMid img{
+    width: 300px;
+}
+.interiorText{
+    height: 190px;
+    text-align: justify;
+}
+.programIcons{
+    padding-top: 10px;
+}
+.programIcons img{
+    display: inline-block;
+    width: 40px;
+    margin-left: 14px;
+    margin-bottom: 5px;
+}
+.interiorButton input{
+    color: white;
+    background-color: rgb(64, 125, 97);
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 2px 2px 2px 2px rgb(144, 144, 144);
+    -webkit-appearance: none;
+    border: 1px solid rgb(43, 43, 43);
+    margin-top: 10px;
+}
+.interiorButton{
+    text-align: center;
+    /* border-color: 2px black;
+    -webkit-appearance: none; */
+}
+.webProfiles img{
+    width: 20px;
+    margin-right: 2px;
+}
+.emailPhone a{
+    text-decoration: none;
+}
+.webProfiles{
+    font-style: italic;
+    margin-top: 5px;
+}
+.webProfiles a{
+    margin-right: 5px;
+}
